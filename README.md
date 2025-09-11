@@ -1,6 +1,5 @@
 # Rock Paper Scissors Web Game
 
-## Repository Description
 A simple and interactive web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript. Players can compete against the computer, with real-time score tracking and responsive design for seamless gameplay on desktop and mobile devices.
 
 ## Table of Contents
@@ -67,3 +66,4 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
